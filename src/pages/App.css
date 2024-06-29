@@ -1,0 +1,12 @@
+.active {
+    color: rgba(199, 105, 4, 1);
+}
+
+.servis {
+    background: url(servis.png) no-repeat;
+}
+
+.colors {
+    color: rgba(205, 162, 116, 1);
+    
+}
